@@ -18,7 +18,7 @@ href="http://bioresearch.byu.edu/cs260/jquery/getcity.cgi?q=Pr">Utah
 city API</a>.  This will provide a hint to the user about what cities
 are available.  Put these options into an unordered list and modify
 the DOM to show these hints.  See
-[hints](https://github.com/orgs/BYU-CS260-Winter-2018/lab2/wiki/city-API)
+[hints](https://github.com/BYU-CS260-Winter-2018/lab2/wiki/City-API)
 for helpful information.
 
 1. Create a JavaScript event handler that triggers when the Submit
@@ -26,7 +26,7 @@ button is clicked. Inside this handler, use the value of the input
 field to send a request to the <a
 href="http://www.wunderground.com/weather/api/d/docs">Weather
 Underground API</a> to get the current weather for that city. See
-[hints](https://github.com/orgs/BYU-CS260-WInter-2018/lab2/wiki/weather-API)
+[hints](https://github.com/orgs/BYU-CS260-WInter-2018/lab2/wiki/Weather-API)
 for helpful information.
 
 ## Stack Overflow
@@ -40,7 +40,7 @@ button is clicked. Inside this handler, use the value of the input
 field to send a request to the <a
 href="https://api.stackexchange.com/2.2/search?order=desc&sort=activity&site=stackoverflow&intitle=javascript">Stack
 Overflow API</a> to get a list of matching questions. See
-[hints](https://github.com/orgs/BYU-CS260-WInter-2018/lab2/wiki/stackoverflow-API)
+[hints](https://github.com/orgs/BYU-CS260-WInter-2018/lab2/wiki/Stack-Overflow-API)
 for helpful information.
 
 ## Submission
