@@ -26,7 +26,7 @@ button is clicked. Inside this handler, use the value of the input
 field to send a request to the <a
 href="http://www.wunderground.com/weather/api/d/docs">Weather
 Underground API</a> to get the current weather for that city. See
-[hints](https://github.com/orgs/BYU-CS260-WInter-2018/lab2/wiki/Weather-API)
+[hints](https://github.com/BYU-CS260-Winter-2018/lab2/wiki/Weather-API)
 for helpful information.
 
 ## Stack Overflow
@@ -39,9 +39,12 @@ Overflow.  Then, in `scripts.js` do the following:
 button is clicked. Inside this handler, use the value of the input
 field to send a request to the <a
 href="https://api.stackexchange.com/2.2/search?order=desc&sort=activity&site=stackoverflow&intitle=javascript">Stack
-Overflow API</a> to get a list of matching questions. See
-[hints](https://github.com/orgs/BYU-CS260-WInter-2018/lab2/wiki/Stack-Overflow-API)
-for helpful information.
+Overflow API</a> to get a list of matching questions. Click the link
+above to see an example of searching for `JavaScript`.  You can view
+the [API documentation](https://api.stackexchange.com/docs/search) for
+guidance. You can also use console output to inspect the returned JSON
+from this API, like we show in the Wiki, and figure out the format
+from there. **This part you will do on your own.**
 
 ## Submission
 
