@@ -11,7 +11,7 @@ In `index.html`, build a form that includes a text input and a submit button:
 
 Then, in `scripts.js` do the following:
 
-1. Create a JavaScript event handler that triggers when the Submit
+Create a JavaScript event handler that triggers when the Submit
 button is clicked. Inside this handler, use the value of the input
 field to send a request to the [OpenWeatherMap
 API](https://openweathermap.org/api) to get the current weather for
