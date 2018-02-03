@@ -16,7 +16,7 @@ button is clicked. Inside this handler, use the value of the input
 field to send a request to the [OpenWeatherMap
 API](https://openweathermap.org/api) to get the current weather for
 that city. See
-[hints](https://github.com/BYU-CS260-Winter-2018/lab2/wiki/Weather-API)
+[the Wiki page on the Weather API](https://github.com/BYU-CS260-Winter-2018/lab2/wiki/Weather-API)
 for helpful information.
 
 Once this is done, add some additional information from the returned
