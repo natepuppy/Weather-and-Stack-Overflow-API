@@ -36,6 +36,12 @@ guidance. You can also use console output to inspect the returned JSON
 from this API, like we show in the Wiki, and figure out the format
 from there. **This part you will do on your own.**
 
+## Web Design
+
+Add some design to the page. You may want to put weather and Stack
+Overflow on separate pages, or use tabs from a CSS framework, or
+add other design elements.
+
 ## Submission
 
 Submit the URL for your website, which should be running on your DigitalOcean server.
