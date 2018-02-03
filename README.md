@@ -19,6 +19,11 @@ that city. See
 [hints](https://github.com/BYU-CS260-Winter-2018/lab2/wiki/Weather-API)
 for helpful information.
 
+Once this is done, add some additional information from the returned
+weather info.
+
+**Optional**: Add data from the forecast, which requires another API call.
+
 ## Stack Overflow
 
 In `index.html`, build a form that includes a text input and a submit
@@ -53,8 +58,9 @@ rubric:
 
 Item | Points
 --- | ---
-Search for current weather works | 40
-Search on Stack Overflow works | 50
+Search for current weather works | 30
+Additional weather info added | 20
+Search on Stack Overflow works | 40
 Uses good web design principles | 10
 
 For the web design principles, you will receive 2 points for each for
