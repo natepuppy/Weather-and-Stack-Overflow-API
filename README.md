@@ -1,7 +1,19 @@
 # Lab2: Calling APIs with JQuery
 
-In this assignment you will use JQuery to call APIs for the weather and for Stack Overflow
-questions.
+In this assignment you will use JQuery to call APIs for the weather
+and for Stack Overflow questions.
+
+## Starting the lab
+
+To start the lab, you must follow this [GitHub Classroom
+link](https://classroom.github.com/a/z8Udv1ag). This will create a
+private repository for you using our classroom site. We will only
+grade repositories created and submitted this way.
+
+Once you "Accept the assignment" on GitHub Classroom, it will create a
+new repository for you and grant you access to it on GitHub. In order
+to start working on the lab, simply clone the repository to your
+laptop or other working environment.
 
 ## Weather API
 
@@ -47,9 +59,15 @@ Add some design to the page. You may want to put weather and Stack
 Overflow on separate pages, or use tabs from a CSS framework, or
 add other design elements.
 
+## Link to GitHub repository
+
+In a footer, you must include a link to your GitHub repository, which must be
+stored in GitHub Classroom.
+
 ## Submission
 
-Submit the URL for your website, which should be running on your DigitalOcean server.
+On Canvas, submit the URL for your website, which should be running on
+your DigitalOcean server.
 
 ## Rubric for Grading
 
