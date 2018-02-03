@@ -53,9 +53,8 @@ rubric:
 
 Item | Points
 --- | ---
-Correctly suggests cities based on the input value | 30
-Search for current weather works | 30
-Search on Stack Overflow works | 30
+Search for current weather works | 40
+Search on Stack Overflow works | 50
 Uses good web design principles | 10
 
 For the web design principles, you will receive 2 points for each for
