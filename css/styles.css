@@ -1,0 +1,158 @@
+h1 {
+	font-family: arial;
+	color: green;
+}
+
+h2 {
+	font-family: arial;
+	color: green;
+}
+
+h4 {
+	font-family: arial;
+	color: green;
+}
+
+label {
+	color: green;
+	font-family: arial;
+}
+
+p {
+	color: green;
+	font-family: arial;
+}
+
+a {
+	color: green;
+	font-family: arial;
+}
+
+a:hover {
+	color: black;
+}
+
+#weatherResults {
+	position: absolute;
+	margin-top:  50px;
+	margin-left: 25%;
+    width: 50%;
+    border: 3px solid green;
+    padding: 0px;
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+#stackResults {
+	position: absolute;
+	margin-top:  50px;
+	margin-left: 25%;
+    width: 50%;
+    border: 3px solid green;
+    padding: 0px;
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: arial;
+}
+
+li.menu {
+    float: right;
+    padding-left: 1%;
+    padding-right: 1%;
+    font-family: arial;
+}
+
+li.logo {
+    float: left;
+    font-family: cursive;
+    padding-left: 5%;
+    font-size: 150%;
+    font-family: arial;
+}
+
+li a {
+    display: block;
+    color: green;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial;
+
+}
+
+li a:hover {
+    color: black;
+    font-size: 110%;
+}
+
+img.logo {
+	width: 70px;
+}
+
+
+form {
+    margin: 0 auto;
+    width: 500px;
+    padding: 2em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+}
+
+label {
+    padding: 10px;\
+    margin: 10px;
+}
+
+
+input, textarea {
+    font: 1em sans-serif;
+    width: 400px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+}
+
+input:focus, textarea:focus {
+    border-color: green;
+}
+
+.button {
+    padding-left: 90px; 
+}
+
+button {
+    margin-left: .5em;
+}
+
+body {
+    margin: 0 0 100px; 
+}
+
+
+a.footer {
+    color: white;
+    font-size: 100%;
+    text-decoration: none;
+}
+
+footer {
+    background-color: green;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+    position: fixed; bottom: 0
+}
